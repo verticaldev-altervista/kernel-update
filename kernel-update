@@ -12,7 +12,7 @@
 #	esecuzione: ~$ sudo ./kernel-update [ -h --help]
 #		Per uscire dal programma premere il tasto "q" oppure seguire il menu
 #
-#	Ricordarsi di dare allo script i ermessi di esecuzione con il comando:
+#	Ricordarsi di dare allo script i permessi di esecuzione con il comando:
 #		~$ chmod +x kernel-update
 #
 #	Se si desidera lanciare il programma come comando di sistema può usare:
